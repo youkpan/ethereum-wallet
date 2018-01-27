@@ -34,7 +34,7 @@ extension API.Etherscan: APIMethodProtocol {
   
   var path: String {
     let chain = Defaults.chain
-    return "https://\(chain.etherscanUrl)/api?"
+    return "http://\(chain.etherscanUrl)/api?"
   }
   
   var params: Params? {

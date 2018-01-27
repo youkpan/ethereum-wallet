@@ -7,7 +7,7 @@
 // any later version.
 //
 // This program is distributed in the hope that it will be useful, but WITHOUT
-// ANY WARRANTY; without even the implied warranty of  MERCHANTABILITY or
+// ANY WARRANTY without even the implied warranty of  MERCHANTABILITY or
 // FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for
 // more details.
 //
@@ -17,36 +17,36 @@
 
 
 // MARK: - Welcome
-"welcome.new.title" = "New Wallet";
-"welcome.restore.title" = "Restore with passphrase";
+"welcome.new.title" = "新钱包"
+"welcome.restore.title" = "使用密码存储"
 
 // MARK: - Password
-"new.password.title" = "New account";
-"restore.password.title" = "Restore account";
-"mode.title" = "Enable secure mode";
-"mode.secure.helper" = "Secure mode launch node directly on the device. First synchronization can takes from 15 to 20 minutes";
-"mode.standard.helper" = "The standard mode doesn't require synchronization. Recommended for most users";
+"new.password.title" = "新账户"
+"restore.password.title" = "存储账户"
+"mode.title" = "开启安全模式"
+"mode.secure.helper" = "安全模式直接存储区块链，第一次开启需要约10~20分钟"
+"mode.standard.helper" = "推荐使用标准模式，不需要同步所有区块链。"
 
 // MARK: - Receive
-"receive.alert.copy" = "You address was copied to clipboard";
+"receive.alert.copy" = "你的钱包地址拷贝到剪贴板"
 
 // MARK: - Send
-"send.gasPrice" = "Current gas price: %@ gwi";
-"send.amount" = "Amount: %@";
-"send.fee" = "Fee: %@";
+"send.gasPrice" = "当前瓦斯价格： %@ gwi"
+"send.amount" = "数量： %@"
+"send.fee" = "费用： %@"
 
 // MARK: - Transactions
-"transactions.pending" = "Pending";
+"transactions.pending" = "发送中"
 
 // MARK: Timestamp
-"time.today" = "Today";
-"time.yestarday" = "Yesterday";
-"time.tomorrow" = "Tomorrow";
-"time.daysAgo" = "%@ days ago";
-"time.inDays" = "In %@ days";
+"time.today" = "今天"
+"time.yestarday" = "昨天"
+"time.tomorrow" = "明天"
+"time.daysAgo" = "%@ 天以前"
+"time.inDays" = "在 %@ 天内"
 
 // MARK: Settings
-"settings.currency.title" = "Currency";
+"settings.currency.title" = "货币"
 
 // MARK: ChooseCurrency
-"chooseCurrency.header" = "Currency";
+"chooseCurrency.header" = "货币"

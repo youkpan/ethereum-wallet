@@ -31,11 +31,11 @@ enum Chain: String {
   var chainId: Int64 {
     switch self {
     case .mainnet:
-      return 1
+      return 5767778797
     case .ropsten:
-      return 3
+      return 5767778797
     case .rinkeby:
-      return 4
+      return 5767778797
     }
   }
   
@@ -92,11 +92,11 @@ enum Chain: String {
   var etherscanUrl: String {
     switch self {
     case .mainnet:
-      return "api.etherscan.io"
+      return "heapi.hayoou.com"
     case .ropsten:
-      return "ropsten.etherscan.io"
+      return "heapi.hayoou.com"
     case .rinkeby:
-      return "rinkeby.etherscan.io"
+      return "heapi.hayoou.com"
     }
   }
   
